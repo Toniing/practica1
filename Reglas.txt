@@ -1,0 +1,5 @@
+Las reglas son:
+Las lineas en blanco o que comienzan por # son ignoradas
+Puedes usar patrones glob estandar
+Cuando se usa el asterisco *
+Puedes negar un patron añadiendo una exclamacion ! al principio
